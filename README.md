@@ -15,10 +15,10 @@
 2.2015当时做ui的我，领导让我去写html和css，我同意了，开始成为一个前端美工（汗颜）。
 
 会写html css less sass，但是就是不会js。哈哈哈哈哈!!!
-写一段less给你们看看哈！
+写一段js给你们看看哈！
 
-    @bg:ffd5b3
-
-    .BGcolor {
-       background-color:@bg;
+    function f(){
+    console.log('hello world')
     }
+
+    f()
